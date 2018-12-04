@@ -1,1 +1,1 @@
-print('I hate "SourceTree")
+print("Wake up SourceTree")
